@@ -11,8 +11,6 @@ cd python-web-app
 
 
 
-
-
 ## Setup virtual env and install requirements
 ```sh    
 python3 -m venv venv
